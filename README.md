@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 
 I'm an American-Vietnamese aspiring programmer and film composer, hoping to learn more about programming! 
 # 👨‍💻 About Me
-I am currently a High School Student learning to program in C++, with advanced mastery of Film/Video Game Music Composiiton.
+I am currently a High School Student learning to program in C# and C++, with advanced mastery of Film/Video Game Music Composiiton.
 <!---
 # 🔭 Current Projects
 --->
